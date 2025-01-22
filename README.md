@@ -46,13 +46,5 @@ Job Classification Insights: White-collar workers contribute 49% of sales, follo
 Gender Trends: Males account for 54% of total sales, while females contribute 46%. The gender balance suggests equitable sales opportunities across male and female audiences.
 
 # Summary
-The analysis reveals England as the leading region, with a significant share of sales coming from the 30–44 age group. White-collar job descriptions dominate sales by classification, and both genders contribute almost equally to the sales figures.
-
-# Recommendations
-Region-Specific Campaigns: Focus resources on England while increasing efforts in Scotland to bridge the gap in regional sales performance.
-
-Age-Targeted Strategies: Develop campaigns tailored to the 30–44 age group, emphasizing their spending power.
-
-Expand Gender-Inclusive Marketing: Create campaigns that appeal equally to both genders, leveraging their balanced sales contribution.
-
-Diversify Job Class Approaches: Implement distinct strategies to address White-collar, Blue-collar, and Other job classifications for a broader reach.
+The analysis highlights England as the leading region, with a significant share of sales driven by the 30–44 age group. White-collar job classifications dominate sales contributions, and both genders contribute almost equally to the overall performance.
+To enhance sales further, resources should be concentrated on maintaining England’s lead while increasing efforts in Scotland to bridge the regional sales gap. Campaigns tailored to the 30–44 age group should be developed to capitalize on their spending power. Gender-inclusive marketing strategies that appeal equally to both genders can leverage their balanced sales contribution. Additionally, implementing distinct approaches for White-collar, Blue-collar, and Other job classifications will help diversify the customer base and broaden market reach.
