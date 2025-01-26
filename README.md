@@ -2,22 +2,7 @@
 
 # Introduction
 The purpose of this report is to provide an analysis of regional sales performance based on demographic and job classification data. The goal is to identify trends and patterns across regions, age groups, job classifications, and gender, enabling stakeholders to make informed decisions to improve sales strategies and target specific market segments effectively.
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
-# Step 1: Load the dataset
-def load_data(file_path):
-    """Loads the dataset into a pandas DataFrame."""
-    try:
-        data = pd.read_excel(C:\Users\ADMIN\OneDrive\Desktop\Bluesky\Excel practice doc)
-        print("Data loaded successfully.")
-        return data
-    except Exception as e:
-        print(f"Error loading data: {e}")
-        return None
-```
 # Tools Used
 This analysis was conducted using:
 
